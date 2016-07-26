@@ -70,7 +70,6 @@ function toPack(code) {
 
   let specialrnd
   switch (code) {
-<<<<<<< HEAD
     case 'EMN':
       if (_.rand(2) < 1)
         special = special.uncommon

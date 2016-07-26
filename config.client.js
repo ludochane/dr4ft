@@ -2,7 +2,7 @@ let d = React.DOM
 
 export let STRINGS = {
   BRANDING: {
-    SITE_NAME: 'dr4ft'
+    SITE_NAME: ['dr4ft'],
     DEFAULT_USERNAME: 'dr4fter',
   },
 

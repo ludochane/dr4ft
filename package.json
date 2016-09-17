@@ -18,5 +18,8 @@
     "nightwatch": "^0.9.3",
     "normalize.css": "^3.0.1",
     "react": "^0.11.2"
+  },
+  "scripts": {
+    "start": "make run"
   }
 }
